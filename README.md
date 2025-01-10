@@ -65,12 +65,7 @@ We use the **CIFAR-10** dataset, a widely-used benchmark for image classificatio
 
 2. **Training the Models:**
    Each model (ViT, Swin, TNT) can be trained using the provided scripts. You can modify the training configurations in the code if needed.
-   ```bash
-   python Vit.py       # For training Vision Transformer
-   python Swin.py      # For training Swin Transformer
-   python TNT.py       # For training Transformer in Transformer
-   ```
-
+   
 3. **Evaluating the Models:**
    After training, the models are evaluated on the CIFAR-10 test set. The performance metrics such as accuracy, precision, recall, F1-score, AUC, and confusion matrix are computed and visualized.
 
