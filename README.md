@@ -44,7 +44,7 @@ We use the **CIFAR-10** dataset, a widely-used benchmark for image classificatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/transformer-cifar10.git
+   git clone https://github.com/yathnesh/Comparative-Study-of-Vision-Transformer-ViT-Swin-Transformer-and-TNT-on-CIFAR-10.git
    cd transformer-cifar10
    ```
 
